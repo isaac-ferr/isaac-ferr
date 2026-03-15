@@ -6,7 +6,7 @@
 
 ---
 
-👨‍💻 **Developer in Training**
+💻 **Developer in Training**
 
 > Systems Development student learning programming through practical projects.
 
