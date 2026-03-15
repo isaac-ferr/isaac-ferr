@@ -6,7 +6,7 @@
 
 ---
 
-💻 **Developer in Training**
+👨‍💻 **Developer in Training**
 
 > Systems Development student learning programming through practical projects.
 
@@ -33,6 +33,15 @@ Currently, I am strengthening my technical foundation by building practical proj
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## 📊 GitHub Stats
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaac-ferr&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-ferr&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
