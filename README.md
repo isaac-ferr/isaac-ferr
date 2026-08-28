@@ -37,15 +37,6 @@ Currently, I am strengthening my technical foundation by building practical proj
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 📊 GitHub Stats
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaac-ferr&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-ferr&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 ## 📈 Objective
 
 I am looking for an internship opportunity or my first professional experience in the development field, with a focus on continuous learning and improving my programming skills.
